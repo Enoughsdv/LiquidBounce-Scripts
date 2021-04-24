@@ -1,7 +1,8 @@
+///api_version=2
 (script = registerScript({
     name: "RedeAuth",
     authors: ["Enoughdv", "cancernameu"],
-    version: "1.0"
+    version: "0.5"
 })).import("Core.lib");
 
 var S45PacketTitle = Java.type('net.minecraft.network.play.server.S45PacketTitle');
@@ -14,7 +15,7 @@ var password = "564asd654561";
 
 module = {
     category: "Redesky",
-    description: "Redesky Captcha solver & Auto login",
+    description: "Captcha solver & Auto login",
     onUpdate: function () {
         if (mc.thePlayer.ticksExisted < 2) authenticated = false
     },
