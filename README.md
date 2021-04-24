@@ -10,6 +10,9 @@ Features:
   Tired of having to complete the captcha and register and/or log in to RedeSky?
 - RedePhase (NOT FINISHED) :
   I don't recommend using this one, even though it bypasses the anticheat you have to wait a long time to be able to use any other hack or else it cancels it.
-  
+ 
+ # Installation
+ https://youtu.be/TwUFl8LqV9o
+ 
   
 `` Original post: https://forums.ccbluex.net/topic/1869/redesky-autologin-captcha-bypass-automatic-vphase``
