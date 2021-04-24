@@ -4,7 +4,6 @@
     version: "1.0"
 })).import("Core.lib");
 
-var client;
 var S45PacketTitle = Java.type('net.minecraft.network.play.server.S45PacketTitle');
 var S2FPacketSetSlot = Java.type('net.minecraft.network.play.server.S2FPacketSetSlot');
 var C0EPacketClickWindow = Java.type('net.minecraft.network.play.client.C0EPacketClickWindow');
