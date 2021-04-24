@@ -1,6 +1,6 @@
 (script = registerScript({
     name: "RedeAuth",
-    authors: ["Enoughdv", "cancernameu"],//And cancer
+    authors: ["Enoughdv", "cancernameu"],
     version: "1.0"
 })).import("Core.lib");
 
