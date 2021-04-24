@@ -5,7 +5,7 @@
 
 (script = registerScript({
     name: "RedePhase",
-    authors: ["Enoughdv"],//And cancer
+    authors: ["Enoughdv", "cancernameu"],//And cancer
     version: "1.0"
 })).import("Core.lib");
 
