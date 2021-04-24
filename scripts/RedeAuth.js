@@ -1,6 +1,6 @@
 (script = registerScript({
     name: "RedeAuth",
-    authors: ["Enoughdv"],//And cancer
+    authors: ["Enoughdv", "cancernameu"],//And cancer
     version: "1.0"
 })).import("Core.lib");
 
@@ -15,7 +15,7 @@ var password = "564asd654561";
 
 module = {
     category: "Redesky",
-    description: "RedeSky captcha solver & Auto login",
+    description: "Redesky Captcha solver & Auto login",
     onUpdate: function () {
         if (mc.thePlayer.ticksExisted < 2) authenticated = false
     },
