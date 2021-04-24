@@ -1,5 +1,7 @@
 # LiquidBounce
 Script for RedeSky using LiquidBounce, I am editing all these features to make it a bit more orderly.
+- If you have any questions, contact with:
+Discord: Enough#7502
 
 - I want to make it clear that these scripts are taken from the LiquidBounce forum.
 
