@@ -25,13 +25,13 @@ module = {
                 mc.thePlayer.sendQueue.addToSendQueue(new C01PacketChatMessage("/register " + password + " " + password));
                 authenticated = true;
                 if(mc.getCurrentServerData().serverIP.match(/^2187ge/))
-                chat.print("§7[§&b&lRedeAuth§7] §aYou're ready to play!")
+                chat.print("§a[RedeAuth] You're ready to play!")
             }
             else if (e.getPacket().getMessage().getFormattedText().match(/\/login/)) {
                 mc.thePlayer.sendQueue.addToSendQueue(new C01PacketChatMessage("/login " + password));
                 authenticated = true;
                 if(mc.getCurrentServerData().serverIP.match(/^2187ge/))
-                chat.print("§7[§&b&lRedeAuth§7] §aYou're ready to play!")
+                chat.print("§a[RedeAuth] You're ready to play!")
             }
         }
         else if (e.getPacket() instanceof S2FPacketSetSlot) {
