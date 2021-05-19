@@ -10,6 +10,7 @@
                    | |                                             __/ |
                    |_|                                            |___/ 
 ```
+## RedeAuth Note: They changed the Auth verification system, so don't use it because it won't work for you and it will just be a script but I'll leave it for others to learn.
 Script for RedeSky using LiquidBounce.
 - If you have any questions, contact with:
 Discord: Enough#7502
